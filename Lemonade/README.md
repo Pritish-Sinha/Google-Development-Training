@@ -29,7 +29,4 @@ Tips
 Output
 ------
 
-<img width="200" height="433" src="Lemonade/output/L01.png" alt="Lemonade SELECT State"> 
-<img width="200" height="433" src="Lemonade/output/L02.png" alt="Lemonade SQUEEZE State">
-<img width="200" height="433" src="Lemonade/output/L03.png" alt="Lemonade DRINK State"> 
-<img width="200" height="433" src="Lemonade/output/L04.png" alt="Lemonade RESTART State">
+<img width="200" height="433" src="[Google-Development-Training/Lemonade/output/L01.png](https://github.com/Pritish-Sinha/Google-Development-Training/blob/bc1630f6f04c77068e7dd592c1f079d241f881b6/Lemonade/output/L01.png)" alt="Lemonade SELECT State">
