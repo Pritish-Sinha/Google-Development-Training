@@ -28,5 +28,5 @@ Tips
 
 Output Screenshots
 ------------------
-<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersMain.png" alt="Dogglers Main Landing View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersVertical.png" alt="Dogglers Vertical List View">
-<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersHorizontal.png" alt="Dogglers Horizontal View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersGrid.png" alt="Dogglers Grid View">
+<img width="200" height="433" src="https://github.com/Pritish-Sinha/Google-Development-Training/blob/d0c2fda467b38841f90bf75d3169ae516bf10920/Dogglers/output/D01.png"> <img width="200" height="433" src="https://github.com/Pritish-Sinha/Google-Development-Training/blob/d0c2fda467b38841f90bf75d3169ae516bf10920/Dogglers/output/D02.png">
+<img width="200" height="433" src="https://github.com/Pritish-Sinha/Google-Development-Training/blob/d0c2fda467b38841f90bf75d3169ae516bf10920/Dogglers/output/D03.png"> <img width="200" height="433" src="https://github.com/Pritish-Sinha/Google-Development-Training/blob/d0c2fda467b38841f90bf75d3169ae516bf10920/Dogglers/output/D04.png">
