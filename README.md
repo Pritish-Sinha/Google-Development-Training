@@ -4,6 +4,7 @@ Android Basics Kotlin
 ==================================
 
 This repository contains dummy project solution tasked in [GDT-Android Basics](https://developer.android.com/courses/android-basics-kotlin/course)
+<sup>[Start Date: July 17th]<sup>
 
 Tasks
 --------------
